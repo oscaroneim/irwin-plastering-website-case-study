@@ -4,13 +4,36 @@
 
 **Tech Stack:** Next.js 15 · React 19 · TypeScript · Tailwind CSS · shadcn/ui · Zod · React Hook Form · EmailJS · Vercel · Figma
 
-## Overview
+# Irwin Plastering — Website Design & Development
 
-An end-to-end website design and development project for an independent plastering business.
+**Independent Client Project | April 2025**
 
-The client had a limited digital presence, primarily through Instagram, and no existing website. Working from a single physical advertisement, I was responsible for translating their existing identity into a complete digital experience.
+**Role:** Sole Designer & Developer  
+**Stack:** Next.js 15 · React 19 · TypeScript · Tailwind CSS · Zod · React Hook Form · EmailJS · Vercel  
+**Design:** Figma · Responsive UI · Wireframing · Brand Development  
+**Status:** Completed — Original domain currently inactive
 
-I managed the project from initial discovery and design through to frontend development, deployment, technical SEO and client handover.
+## Project Overview
+
+Designed, developed and deployed a responsive website for an independent plastering business, taking ownership of the project from initial discovery through to technical handover.
+
+Working from a single physical advertisement and a limited Instagram presence, I established the website's visual direction, created wireframes and responsive designs, and translated ambiguous requirements into a functional web experience.
+
+I independently handled frontend development, form validation, customer enquiry integration, technical SEO, deployment and documentation.
+
+The project was designed around the client's limited budget, prioritising maintainability, performance and avoiding unnecessary backend infrastructure.
+
+### Key Contributions
+
+- **End-to-end ownership:** Managed discovery, design, development, deployment and handover.
+- **UI/UX design:** Created logo concepts, wireframes and responsive layouts in Figma.
+- **Frontend engineering:** Built the website using Next.js, React and TypeScript.
+- **Form integration:** Implemented Zod validation, React Hook Form and EmailJS.
+- **Technical SEO:** Configured sitemap generation, robots.txt and SEO fundamentals.
+- **Infrastructure:** Configured Vercel deployment and domain DNS.
+- **Stakeholder management:** Translated unclear requirements into approved designs through iterative feedback.
+
+---
 
 ## The Challenge
 
