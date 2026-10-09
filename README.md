@@ -20,6 +20,12 @@ I needed to establish the website's structure, visual direction and content whil
 
 The client also had a limited budget, making ongoing running costs and maintainability important considerations.
 
+### The Starting Point
+
+The client's existing physical advertisement was the primary visual reference for the project. I used it to inform the website's branding, colour palette and overall design direction.
+
+![Original client advertisement](assets/original-advertisement.png)
+
 ## Discovery & Design
 
 I used Figma to explore logo ideas, develop wireframes and design responsive desktop and mobile layouts.
