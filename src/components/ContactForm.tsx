@@ -20,8 +20,24 @@ export default function ContactForm() {
   };
 
   return (
-    <form onSubmit={form.handleSubmit(onSubmit)}>
-      {/* We'll add the actual form fields here next. */}
-    </form>
+  <form onSubmit={form.handleSubmit(onSubmit)}>
+    <div>
+      <label htmlFor="firstName">First name</label>
+
+      <input
+        id="firstName"
+        type="text"
+        {...form.register('firstName')}
+      />
+
+      {form.formState.errors.firstName && (
+        <p role="alert">
+          {form.formState.errors.firstName.message}
+        </p>
+      )}
+    </div>
+
+    <button type="submit">Send enquiry</button>
+  </form>
   );
 }
