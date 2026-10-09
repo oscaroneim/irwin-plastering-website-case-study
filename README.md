@@ -37,6 +37,48 @@ My responsibilities included:
 - Presenting design concepts and incorporating stakeholder feedback.
 - Designing a contact form and post-submission confirmation experience.
 
+### Responsive Website Design
+
+I designed the website in Figma, creating layouts for desktop and mobile devices. My approach focused on maintaining a consistent visual identity while adapting navigation, content hierarchy and service information for smaller screens.
+
+#### Desktop Homepage
+
+![Desktop homepage Figma design](assets/Landing%20page.png)
+
+#### Mobile Homepage
+
+<img src="assets/iPhone%2013%20%26%2014%20Landing%20page.png" alt="Mobile homepage Figma design" width="300" />
+
+### Visual Identity Exploration
+
+I explored logo concepts and supporting visual elements to translate the client's existing branding into a consistent digital experience.
+
+![Logo and visual identity concept](assets/logoidea.png)
+
+## Customer Enquiry Experience
+
+I designed a customer enquiry journey to make it straightforward for prospective customers to request a quote or ask about the company's services.
+
+The form collects relevant information, including contact details, building type, postcode, required services and a description of the work.
+
+I also designed a confirmation screen to communicate that the enquiry had been received and explain what customers should expect next.
+
+### Desktop Contact Form
+
+![Desktop contact form design](assets/Quote%20page.jpg)
+
+### Mobile Contact Form
+
+<img src="assets/iPhone%2013%20%26%2014%20-%20Contact%20form.png" alt="Mobile contact form design" width="300" />
+
+### Enquiry Confirmation
+
+![Desktop confirmation page](assets/success.png)
+
+### Mobile Confirmation
+
+<img src="assets/iPhone%2013%20%26%2014%20-%20success.png" alt="Mobile confirmation page" width="300" />
+
 ## Engineering & Architecture
 
 ### Next.js and React
