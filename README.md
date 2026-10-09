@@ -24,7 +24,7 @@ The client also had a limited budget, making ongoing running costs and maintaina
 
 The client's existing physical advertisement was the primary visual reference for the project. I used it to inform the website's branding, colour palette and overall design direction.
 
-![Original client advertisement](assets/original-advertisement.png)
+![Original client advertisement](assets/IRWIN%20PLASTERING.png)
 
 ## Discovery & Design
 
